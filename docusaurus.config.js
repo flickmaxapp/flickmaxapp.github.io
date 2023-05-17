@@ -144,7 +144,7 @@ const config = {
           width: 160,
           height: 36,
         },
-        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://inspireui.com">InspireUI Ltd.</a>`, // You can also put own HTML here
+        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://FlickMax.com">FlickMax Ltd.</a>`, // You can also put own HTML here
       }, 
 
       prism: {
