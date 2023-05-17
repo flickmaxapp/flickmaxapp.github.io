@@ -6,16 +6,16 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Document - FluxBuilder - An Ultimate Approach For Flutter Mobile Apps",
+  title: "Document - FlickMax - An Ultimate Approach For Flutter Mobile Apps",
   tagline: "",
-  url: "https://docs.fluxbuilder.com/fluxbuilder-docs-customer",
+  url: "https://flickmaxapp.github.io",
   baseUrl: "/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
 
-  organizationName: "fluxbuilder-docs", // Usually your GitHub org/user name.
-  projectName: "fluxbuilder-docs-customer", // Usually your repo name.
+  organizationName: "flickmaxapp", // Usually your GitHub org/user name.
+  projectName: "flickmaxapp.github.io", // Usually your repo name.
   deploymentBranch: "gh-pages",
 
   presets: [
@@ -73,7 +73,7 @@ const config = {
       metadata: [
         {
           name: "keywords",
-          content: "Document - FluxBuilder - An Ultimate Approach For Flutter Mobile Apps",
+          content: "Document - FlickMax - Flutter Mobile Apps Builder",
         },
       ],
 //       gtag: {
@@ -93,43 +93,37 @@ const config = {
           alt: "Logo",
           src: "img/logo.png",
           srcDark: 'img/logo_dark.png',
-          href: 'https://fluxbuilder.com',
+          href: 'https://flickmaxapp.github.io',
           target: '_self',
         },
 
         items: [
           {
-            href: 'https://fluxbuilder.com',
+            href: 'https://flickmaxapp.github.io',
             position: 'right',
             className: 'header-link',
             label: 'Home',
           },
           {
-            href: 'https://fluxbuilder.com/feature',
+            href: 'https://flickmaxapp.com/feature',
             position: 'right',
             className: 'header-link',
             label: 'Feature',
           },
           {
-            href: 'https://fluxbuilder.com/agency',
-            position: 'right',
-            className: 'header-link',
-            label: 'Agency',
-          },
-          {
-            href: 'https://fluxbuilder.com/pricing',
+            href: 'https://flickmaxapp.com/pricing',
             position: 'right',
             className: 'header-link',
             label: 'Pricing',
           },
           {
-            href: 'https://docs.fluxbuilder.com',
+            href: 'https://docs.flickmaxapp.com',
             position: 'right',
             className: 'header-link active',
             label: 'Docs',
           },
           {
-            href: 'https://fluxbuilder.com/pricing',
+            href: 'https://flickmaxapp.com/pricing',
             position: 'right',
             className: 'header-link',
             label: 'Profile',
@@ -144,9 +138,9 @@ const config = {
       footer: {
         style: 'light',
         logo: {
-          alt: 'InspireUI',
+          alt: 'FlickMax',
           src: '/img/logo.png',
-          href: 'https://www.fluxbuilder.com',
+          href: 'https://www.flickmaxapp.com',
           width: 160,
           height: 36,
         },
