@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Document - FlickMax - An Ultimate Approach For Flutter Mobile Apps",
   tagline: "",
-  url: "https://flickmaxapp.github.io",
+  url: "https://docs.flickmax.com",
   baseUrl: "/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
@@ -99,35 +99,35 @@ const config = {
 
         items: [
           {
-            href: 'https://flickmaxapp.github.io',
+            href: 'https://flickmax.com',
             position: 'right',
             className: 'header-link',
             label: 'Home',
           },
+//           {
+//             href: 'https://flickmaxapp.com/feature',
+//             position: 'right',
+//             className: 'header-link',
+//             label: 'Feature',
+//           },
+//           {
+//             href: 'https://flickmaxapp.com/pricing',
+//             position: 'right',
+//             className: 'header-link',
+//             label: 'Pricing',
+//           },
           {
-            href: 'https://flickmaxapp.com/feature',
-            position: 'right',
-            className: 'header-link',
-            label: 'Feature',
-          },
-          {
-            href: 'https://flickmaxapp.com/pricing',
-            position: 'right',
-            className: 'header-link',
-            label: 'Pricing',
-          },
-          {
-            href: 'https://docs.flickmaxapp.com',
+            href: 'https://docs.flickmax.com',
             position: 'right',
             className: 'header-link active',
             label: 'Docs',
           },
-          {
-            href: 'https://flickmaxapp.com/pricing',
-            position: 'right',
-            className: 'header-link',
-            label: 'Profile',
-          },
+//           {
+//             href: 'https://flickmaxapp.com/pricing',
+//             position: 'right',
+//             className: 'header-link',
+//             label: 'Profile',
+//           },
           {
             type: 'search',
             position: 'left',
@@ -140,11 +140,11 @@ const config = {
         logo: {
           alt: 'FlickMax',
           src: '/img/logo.png',
-          href: 'https://www.flickmaxapp.com',
+          href: 'https://flickmax.com',
           width: 160,
           height: 36,
         },
-        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://FlickMax.com">FlickMax Ltd.</a>`, // You can also put own HTML here
+        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://flickmax.com">FlickMax Ltd.</a>`, // You can also put own HTML here
       }, 
 
       prism: {
