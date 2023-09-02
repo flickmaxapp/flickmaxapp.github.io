@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Document - FlickMax - An Ultimate Approach For Flutter Mobile Apps",
+  title: "Document - FlickMax - An Ultimate Approach For Flutter Mobile Apps Builder",
   tagline: "",
   url: "https://docs.flickmax.com",
   baseUrl: "/",
@@ -104,18 +104,18 @@ const config = {
             className: 'header-link',
             label: 'Home',
           },
-//           {
-//             href: 'https://flickmaxapp.com/feature',
-//             position: 'right',
-//             className: 'header-link',
-//             label: 'Feature',
-//           },
-//           {
-//             href: 'https://flickmaxapp.com/pricing',
-//             position: 'right',
-//             className: 'header-link',
-//             label: 'Pricing',
-//           },
+           {
+             href: 'https://flickmax.com/features',
+            position: 'right',
+             className: 'header-link',
+           label: 'Feature',
+         },
+        {
+             href: 'https://flickmax.com/products',
+             position: 'right',
+           className: 'header-link',
+         label: 'Products',
+        },
           {
             href: 'https://docs.flickmax.com',
             position: 'right',
@@ -123,7 +123,7 @@ const config = {
             label: 'Docs',
           },
 //           {
-//             href: 'https://flickmaxapp.com/pricing',
+//             href: 'https://flickmax.com/products',
 //             position: 'right',
 //             className: 'header-link',
 //             label: 'Profile',
