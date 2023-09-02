@@ -92,7 +92,7 @@ const config = {
         logo: {
           alt: "Logo",
           src: "https://img1.wsimg.com/isteam/ip/7a050fe7-bdce-4aec-9b87-60b3d1cf9c05/Flickmax%20(180%20%C3%97%2040px)%20(2).png",
-          srcDark: 'https://img1.wsimg.com/isteam/ip/7a050fe7-bdce-4aec-9b87-60b3d1cf9c05/Flickmax%20(180%20%C3%97%2040px)%20(2).png',
+          srcDark: 'https://i.imgur.com/OumHBr4.png',
           href: 'https://flickmaxapp.github.io',
           target: '_self',
         },
@@ -139,12 +139,12 @@ const config = {
         style: 'light',
         logo: {
           alt: 'FlickMax',
-          src: '/img/logo.png',
+          src: 'https://i.imgur.com/Cab9XjY.png',
           href: 'https://flickmax.com',
           width: 160,
           height: 36,
         },
-        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://flickmax.com">FlickMax Ltd.</a>`, // You can also put own HTML here
+        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://flickmax.com">FlickMax Private Limited</a>`, // You can also put own HTML here
       }, 
 
       prism: {
