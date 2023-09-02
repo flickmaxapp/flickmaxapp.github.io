@@ -91,8 +91,8 @@ const config = {
         hideOnScroll: true,
         logo: {
           alt: "Logo",
-          src: "img/logo.png",
-          srcDark: 'img/logo_dark.png',
+          src: "https://img1.wsimg.com/isteam/ip/7a050fe7-bdce-4aec-9b87-60b3d1cf9c05/Flickmax%20(180%20%C3%97%2040px)%20(2).png",
+          srcDark: 'https://img1.wsimg.com/isteam/ip/7a050fe7-bdce-4aec-9b87-60b3d1cf9c05/Flickmax%20(180%20%C3%97%2040px)%20(2).png',
           href: 'https://flickmaxapp.github.io',
           target: '_self',
         },
